@@ -2,8 +2,7 @@
 
 **VisionFlux** is a cutting-edge AI video generation platform that bridges the gap between high-performance cloud computing and a sleek, cinematic local user interface. It leverages **Stable Diffusion** for text-to-image generation and **RIFE (Real-Time Intermediate Flow Estimation)** for frame interpolation, creating smooth, high-quality short films from simple text prompts.
 
-![VisionFlux UI](https://via.placeholder.com/800x450?text=VisionFlux+Cinematic+UI)
-*(Replace with actual screenshot)*
+
 
 ## 🚀 Project Overview
 
@@ -108,3 +107,4 @@ VISIONFlux/
 
 ---
 *Built with ❤️ by the VisionFlux Team*
+
